@@ -1,2 +1,0 @@
-# riankuy
-apk rrayandev
